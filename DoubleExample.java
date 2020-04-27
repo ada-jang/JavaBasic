@@ -14,3 +14,5 @@ public class DoubleExample {
 		System.out.println("dw : " + d2);
 	}
 }
+
+// java2 conflict....
