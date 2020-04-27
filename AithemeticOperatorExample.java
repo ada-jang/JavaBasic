@@ -1,4 +1,7 @@
-public class AthmetiOperat
-	public static void main(String[] args)
+public class AithemeticOperatorExample {
+	public static void main(String[] args) {
 
-int result = num1 /
+	}
+
+int num1; //
+}

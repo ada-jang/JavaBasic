@@ -7,7 +7,7 @@ public class LongExample {
 		
 		int num4 = Integer.MAX_VALUE; // 2147483647
 		int num5 = 10;
-		int num4 = 2147483647; // -2147483637
+		int num8 = 2147483647; // -2147483637
 		if (num4 <= Integer.MAX_VALUE - num5) {
 			int result = num4 + num5;
 		System.out.println("result: " + result);
@@ -19,11 +19,11 @@ public class LongExample {
 		num6 = 1000000000;
 		num7 = 1000;
 		
-		result = num6 * num7;
+		long result = num6 * num7;
 		
 		if (num6 <= Integer.MAX_VALUE / num7 ) {
-			int result = num6 * num7;
-			System.out.println("result: " + result);
+			long result2 = num6 * num7;
+			System.out.println("result: " + result2);
 		} else {
 			System.out.println("overflow maxvalue");
 		}

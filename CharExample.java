@@ -9,5 +9,6 @@ public class CharExample {
 			// int1 : 97, c1 : a
 			// int1 : 98, c1 : b
 			// int1 : 99, c1 : c
+		}
 	}
 }

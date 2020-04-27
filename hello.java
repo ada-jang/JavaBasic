@@ -10,6 +10,6 @@ public class Hello {
 		String strMessage = "Hello, World";
 		
 		int result = personHeight + personWeight;
-		system.out.println("personHeight + " + " + personWeight " => result: + result);
+		System.out.println("personHeight + " + " + personWeight " => result: + result);
 	}
 }

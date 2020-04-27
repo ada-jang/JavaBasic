@@ -9,10 +9,26 @@ public class CharOperationExample {
 
         result = sum(10, 15);
         System.out.println("result: " + result);
-    }
+        result = minus(400, 150);
+        System.out.println("result: " + result);
+        double result2 = divide(5, 2);
+        System.out.println("result: " + result);
+        
+
+    } // end of main()
     
     public static int sum(int num1, int num2) {
         int result = num1 + num2;
         return result;
-    }
+    } // end of sum()
+
+    public static int minus(int num1, int num2) {
+        int result = num1 - num2;
+        return result;
+    } // end of minus
+
+    public static double divide(int num1, int num2) {
+        double result = (double) num1 / num2;
+        return result;
+    } // end of divide
 }

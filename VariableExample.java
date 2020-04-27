@@ -8,8 +8,9 @@ public class VariableExample {
 		// System.out.println(" result => " + result);
 		
 		byte b3 = 126;
-		for{ int i=0; i<100; i++} {
+		for(int i=0; i<100; i++) {
 		b3++; // b3 = b3 + 1;
 		System.out.println(b3);
+		}
 	}
 }

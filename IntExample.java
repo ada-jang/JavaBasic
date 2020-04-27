@@ -1,5 +1,5 @@
 public class IntExample {
-	public static void main(string[] args) {
+	public static void main(String[] args) {
 		int num1 = 10;
 		int num2 = 012; // Oct
 		int num3 = 0xA; //Hex
