@@ -15,4 +15,7 @@ public class DoubleExample {
 	}
 }
 
+
 // java2 conflict....
+// java add....
+
