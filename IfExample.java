@@ -5,7 +5,7 @@ public class IfExample {
         // score = 80;
         // int num = (int) (Math.random() * 6) + 1; //Math.random() => 0 < 임의의 수 < 
         if(score >= 90) {
-            System.out.println("정수가 90점 이상입니다.");
+            System.out.println("점수가 90점 이상입니다.");
             if (score >= 95) {
             System.out.println("A+ 입니다.");
             } else {
